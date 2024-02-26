@@ -1,5 +1,9 @@
+<script setup>
+import bottom from "@/components/bottom.vue";
+</script>
+
 <template>
-  <div class="h-screen bg-black flex justify-center items-center">
+  <div class="flex justify-center items-center">
     <div class="card w-96 bg-base-100 shadow-xl">
       <figure>
         <img
@@ -16,4 +20,5 @@
       </div>
     </div>
   </div>
+  <bottom />
 </template>
