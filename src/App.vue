@@ -7,3 +7,13 @@ import { RouterLink, RouterView } from "vue-router";
     <RouterView />
   </div>
 </template>
+
+<style>
+html,
+body {
+  font-family: "Geologica", sans-serif;
+}
+#app {
+  font-family: "Geologica", sans-serif;
+}
+</style>
