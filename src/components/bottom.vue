@@ -1,8 +1,9 @@
 <template>
   <main>
-    <footer class="footer bg-primary-content p-8 bg-base-200 text-base-content">
+    <footer class="footer bg-primary-content p-8 text-base-content">
       <aside>
         <svg
+          class="m-9"
           width="152"
           height="60"
           viewBox="0 0 152 60"
@@ -240,7 +241,7 @@
       </nav>
     </footer>
     <footer
-      class="footer footer-center bg-secondary-content p-2 bg-base-100 text-base-content rounded"
+      class="footer footer-center bg-secondary-content p-2 text-base-content"
     >
       <aside>
         <p>© 2022 Focus Textile. All Rights Reserved.</p>

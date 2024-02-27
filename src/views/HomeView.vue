@@ -1,8 +1,10 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
-import bottom from "@/components/bottom.vue";
+import Breadcrumb from "@/components/Breadcrumb.vue";
+import Bottom from "@/components/Bottom.vue";
 </script>
 
 <template>
-  <bottom />
+  <Breadcrumb />
+  <Bottom />
 </template>
