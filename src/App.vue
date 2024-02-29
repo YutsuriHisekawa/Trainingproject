@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-  <div>
+  <div class="bg-blue-50">
     <RouterView />
   </div>
 </template>

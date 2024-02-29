@@ -5,7 +5,7 @@ import Bottom from "@/components/Bottom.vue";
 
 <template>
   <Breadcrumb />
-  <div class="bg-white dark:bg-neutral-900" id="contact">
+  <div class="dark:bg-neutral-900" id="contact">
     <div
       class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 grid md:grid-cols-2 lg:grid-cols-2 gap-y-8 md:gap-x-8 md:gap-y-8 lg:gap-x-8 lg:gap-y-16"
     >
@@ -91,7 +91,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="nama"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Nama"
               /><label
                 for="nama"
@@ -105,7 +105,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="email_address"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Email"
               /><label
                 for="email_address"
@@ -119,7 +119,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="alamat"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Alamat"
               /><label
                 for="alamat"
@@ -133,7 +133,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="alasan"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Bagaimana Anda menemukan kami?"
               /><label
                 for="alasan"
@@ -148,7 +148,7 @@ import Bottom from "@/components/Bottom.vue";
                 <textarea
                   id="pesan"
                   placeholder="Pesan"
-                  class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                  class="peer w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 ></textarea>
                 <label
                   for="pesan"
