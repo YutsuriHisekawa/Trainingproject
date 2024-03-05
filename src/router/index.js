@@ -6,6 +6,7 @@ import FaqView from "../views/FaqView.vue";
 import CareerView from "../views/CareerView.vue";
 import CartView from "../views/CartView.vue";
 import ResourceView from "../views/ResourceView.vue";
+import ProductView from "../views/ProductView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -44,6 +45,11 @@ const router = createRouter({
       path: "/resource",
       name: "resource",
       component: ResourceView,
+    },
+    {
+      path: "/product",
+      name: "product",
+      component: ProductView,
     },
   ],
 });
