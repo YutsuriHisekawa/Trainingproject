@@ -1,13 +1,13 @@
 <script setup>
-import Breadcrumb from "@/components/Breadcrumb.vue";
-import Bottom from "@/components/Bottom.vue";
+import bottom from "@/components/bottom.vue";
+import navbar from "@/components/navbar.vue";
 </script>
 
 <template>
-  <Breadcrumb />
-  <div class="dark:bg-neutral-900" id="contact">
+  <navbar/>
+  <div class="bg-white dark:bg-neutral-900" id="contact">
     <div
-      class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 grid md:grid-cols-2 lg:grid-cols-2 gap-y-8 md:gap-x-8 md:gap-y-8 lg:gap-x-8 lg:gap-y-16"
+      class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-16 grid md:grid-cols-2 lg:grid-cols-2 gap-y-8 md:gap-x-8 md:gap-y-8 lg:gap-x-8 lg:gap-y-16"
     >
       <div>
         <h2 class="text-4xl font-bold">Kontak Kami</h2>
@@ -69,13 +69,13 @@ import Bottom from "@/components/Bottom.vue";
           </svg>
           <a>@focustextile</a>
         </div>
-        <h2 class="text-xl font-bold mt-8 text-neutral-800/80">
+        <h2 class="text-xl font-bold mt-8 text-neutral-800/70">
           JAM OPERASIONAL
         </h2>
         <p class="max-w-lg mt-2">Senin - Jumat: 08.30 - 16.30</p>
         <p class="max-w-lg mt-2">Sabtu: 08.30 - 14.00</p>
         <p class="max-w-lg mt-2">Minggu: Libur</p>
-        <h2 class="text-xl font-bold mt-8 text-neutral-800/80">LOKASI</h2>
+        <h2 class="text-xl font-bold mt-8 text-neutral-800/70">LOKASI</h2>
         <p class="max-w-lg mt-2">Ruko Holis Regency M15-17 Bandung 40222</p>
       </div>
       <div>
@@ -91,7 +91,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="nama"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Nama"
               /><label
                 for="nama"
@@ -105,7 +105,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="email_address"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Email"
               /><label
                 for="email_address"
@@ -119,7 +119,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="alamat"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Alamat"
               /><label
                 for="alamat"
@@ -133,7 +133,7 @@ import Bottom from "@/components/Bottom.vue";
               <input
                 type="text"
                 id="alasan"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Bagaimana Anda menemukan kami?"
               /><label
                 for="alasan"
@@ -148,7 +148,7 @@ import Bottom from "@/components/Bottom.vue";
                 <textarea
                   id="pesan"
                   placeholder="Pesan"
-                  class="peer w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                  class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 ></textarea>
                 <label
                   for="pesan"
@@ -178,5 +178,5 @@ import Bottom from "@/components/Bottom.vue";
       </div>
     </div>
   </div>
-  <Bottom />
+  <bottom />
 </template>
