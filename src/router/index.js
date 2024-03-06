@@ -2,12 +2,10 @@ import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import AboutView from "../views/AboutView.vue";
 import ContactView from "../views/ContactView.vue";
-import FaqView from "../views/FaqView.vue";
-import CareerView from "../views/CareerView.vue";
-import CartView from "../views/CartView.vue";
-import ResourceView from "../views/ResourceView.vue";
-import ProductView from "../views/ProductView.vue";
-import RecommendationView from "../views/RecommendationView.vue";
+import PriceView from "../views/PriceView.vue";
+import BelanjaView from "../views/BelanjaView.vue";
+import BelanjaCarouselView from "../views/BelanjaCarouselView.vue";
+import ArtikelView from "../views/ArtikelView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -28,34 +26,24 @@ const router = createRouter({
       component: ContactView,
     },
     {
-      path: "/faq",
-      name: "faq",
-      component: FaqView,
+      path: "/price",
+      name: "price",
+      component: PriceView,
     },
     {
-      path: "/career",
-      name: "career",
-      component: CareerView,
+      path: "/belanja",
+      name: "belanja",
+      component: BelanjaView,
     },
     {
-      path: "/cart",
-      name: "cart",
-      component: CartView,
+      path: "/belanjacarousel",
+      name: "belanjacarousel",
+      component: BelanjaCarouselView,
     },
     {
-      path: "/resource",
-      name: "resource",
-      component: ResourceView,
-    },
-    {
-      path: "/product",
-      name: "product",
-      component: ProductView,
-    },
-    {
-      path: "/recommendation",
-      name: "recommendation",
-      component: RecommendationView,
+      path: "/artikel",
+      name: "artikel",
+      component: ArtikelView,
     },
   ],
 });
