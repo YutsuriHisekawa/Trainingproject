@@ -37,7 +37,9 @@ function toggleFAQ(event) {
         Produk Aksesoris
       </p>
     </div>
-    <ul class="bg-gray-50 rounded-md p-8 basis-1/2">
+    <ul
+      class="border border-gray-300 bg-gray-50 rounded-lg shadow-xl p-8 basis-1/2"
+    >
       <p class="sm:text-2xl text-2xl font-bold text-base-content">
         Tentang Focus Textile
       </p>

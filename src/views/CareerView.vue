@@ -5,6 +5,7 @@ import Bottom from "@/components/Bottom.vue";
 
 <template>
   <Breadcrumb />
+  <div class="-mt-8 mb-8"><img src="../../img/career.png" /></div>
   <div class="pb-5">
     <div
       class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-6 flex flex-col items-center"

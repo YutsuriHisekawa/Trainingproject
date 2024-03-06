@@ -317,7 +317,7 @@ import Bottom from "@/components/Bottom.vue";
         </button>
       </div>
       <div
-        class="bg-gray-500/10 rounded-xl p-6 w-full mb-8 max-lg:max-w-xl max-lg:mx-auto"
+        class="bg-gray-500/10 rounded-xl shadow-lg p-6 w-full mb-8 max-lg:max-w-xl max-lg:mx-auto"
       >
         <p class="font-medium text-2xl leading-9 text-gray-900 mb-6">
           Ringkasan Pesanan

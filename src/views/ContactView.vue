@@ -69,13 +69,13 @@ import Bottom from "@/components/Bottom.vue";
           </svg>
           <a>@focustextile</a>
         </div>
-        <h2 class="text-xl font-bold mt-8 text-neutral-800/70">
+        <h2 class="text-xl font-bold mt-8 text-neutral-800/80">
           JAM OPERASIONAL
         </h2>
         <p class="max-w-lg mt-2">Senin - Jumat: 08.30 - 16.30</p>
         <p class="max-w-lg mt-2">Sabtu: 08.30 - 14.00</p>
         <p class="max-w-lg mt-2">Minggu: Libur</p>
-        <h2 class="text-xl font-bold mt-8 text-neutral-800/70">LOKASI</h2>
+        <h2 class="text-xl font-bold mt-8 text-neutral-800/80">LOKASI</h2>
         <p class="max-w-lg mt-2">Ruko Holis Regency M15-17 Bandung 40222</p>
       </div>
       <div>
