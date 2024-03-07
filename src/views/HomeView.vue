@@ -1,11 +1,8 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
-import bottom from "@/components/bottom.vue";
-import navbar from "@/components/navbar.vue";
 </script>
 
 <template>
-  <navbar />
   <div>
     <div class="bg-slate-100 -mt-36">
       <div class="left-0 pt-52 ml-16 mr-7">
@@ -871,5 +868,4 @@ import navbar from "@/components/navbar.vue";
       </section>
     </div>
   </div>
-  <bottom/>
 </template>

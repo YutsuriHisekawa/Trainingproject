@@ -19,7 +19,7 @@
           </svg>
         </label>
       </div>
-      <div class="drawer-side" style="z-index: 998;">
+      <div class="drawer-side" style="z-index: 998">
         <label
           for="my-drawer"
           aria-label="close sidebar"
@@ -101,7 +101,7 @@
     </div>
     <div class="navbar-end">
       <label
-        class="input input-bordered gap-3 items-center w-24 flex  lg:w-auto lg:flex  rounded-full"
+        class="input gap-3 items-center w-24 flex lg:w-auto lg:flex rounded-full"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"

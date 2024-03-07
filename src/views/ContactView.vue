@@ -1,10 +1,4 @@
-<script setup>
-import bottom from "@/components/bottom.vue";
-import navbar from "@/components/navbar.vue";
-</script>
-
 <template>
-  <navbar/>
   <div class="bg-white dark:bg-neutral-900" id="contact">
     <div
       class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-16 grid md:grid-cols-2 lg:grid-cols-2 gap-y-8 md:gap-x-8 md:gap-y-8 lg:gap-x-8 lg:gap-y-16"
@@ -178,5 +172,4 @@ import navbar from "@/components/navbar.vue";
       </div>
     </div>
   </div>
-  <bottom />
 </template>

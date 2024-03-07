@@ -1,10 +1,16 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
+import Navbar from "@/components/Navbar.vue";
+import Breadcrumb from "@/components/Breadcrumb.vue";
+import Bottom from "@/components/Bottom.vue";
 </script>
 
 <template>
   <div>
+    <Navbar />
+    <Breadcrumb />
     <RouterView />
+    <Bottom />
   </div>
 </template>
 

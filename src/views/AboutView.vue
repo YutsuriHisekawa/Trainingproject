@@ -1,14 +1,8 @@
-<script setup>
-import bottom from "@/components/bottom.vue";
-import navbar from "@/components/navbar.vue";
-</script>
-
 <template>
-  <navbar />
   <main>
     <div class="mb-16">
       <div class="absolute top-0 w-screen" style="z-index: -1">
-        <img src="../assets/about.svg" alt="" />
+        <img src="../assets/about.svg" />
       </div>
       <div class="mx-auto max-w-7xl pt-0 px-4 sm:px-6 lg:px-8 lg:pt-64 lg:mt-3">
         <div class="lg:text-left">
@@ -141,5 +135,4 @@ import navbar from "@/components/navbar.vue";
       </div>
     </div>
   </main>
-  <bottom />
 </template>

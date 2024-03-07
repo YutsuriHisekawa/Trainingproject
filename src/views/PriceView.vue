@@ -1,10 +1,4 @@
-<script setup>
-import bottom from "@/components/bottom.vue";
-import navbar from "@/components/navbar.vue";
-</script>
-
 <template>
-  <navbar />
   <main>
     <div>
       <div class="min-w-max mb-16">
@@ -348,5 +342,4 @@ import navbar from "@/components/navbar.vue";
       </div>
     </div>
   </main>
-  <bottom/>
 </template>
