@@ -6,7 +6,7 @@ import Bottom from "@/components/Bottom.vue";
 </script>
 
 <template>
-  <div>
+  <div class="bg-blue-50 relative" style="z-index: 0">
     <Navbar />
     <Breadcrumb />
     <RouterView />

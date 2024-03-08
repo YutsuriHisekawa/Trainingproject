@@ -99,7 +99,7 @@
         </svg>
       </a>
     </div>
-    <div class="navbar-end">
+    <div class="navbar-end gap-3 items-center w-24 flex lg:w-auto lg:flex">
       <label
         class="input gap-3 items-center w-24 flex lg:w-auto lg:flex rounded-full"
       >
@@ -107,7 +107,7 @@
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 16 16"
           fill="currentColor"
-          class="w-4 h-4 opacity-70 hidden lg:inline-block"
+          class="w-4 h-4 opacity-70 hidden lg:inline-block text-blue-700"
         >
           <path
             fill-rule="evenodd"

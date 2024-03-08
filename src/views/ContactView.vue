@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-white dark:bg-neutral-900" id="contact">
+  <div class="dark:bg-neutral-900" id="contact">
     <div
-      class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-16 grid md:grid-cols-2 lg:grid-cols-2 gap-y-8 md:gap-x-8 md:gap-y-8 lg:gap-x-8 lg:gap-y-16"
+      class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 grid md:grid-cols-2 lg:grid-cols-2 gap-y-8 md:gap-x-8 md:gap-y-8 lg:gap-x-8 lg:gap-y-16"
     >
       <div>
         <h2 class="text-4xl font-bold">Kontak Kami</h2>
@@ -63,13 +63,13 @@
           </svg>
           <a>@focustextile</a>
         </div>
-        <h2 class="text-xl font-bold mt-8 text-neutral-800/70">
+        <h2 class="text-xl font-bold mt-8 text-neutral-800/80">
           JAM OPERASIONAL
         </h2>
         <p class="max-w-lg mt-2">Senin - Jumat: 08.30 - 16.30</p>
         <p class="max-w-lg mt-2">Sabtu: 08.30 - 14.00</p>
         <p class="max-w-lg mt-2">Minggu: Libur</p>
-        <h2 class="text-xl font-bold mt-8 text-neutral-800/70">LOKASI</h2>
+        <h2 class="text-xl font-bold mt-8 text-neutral-800/80">LOKASI</h2>
         <p class="max-w-lg mt-2">Ruko Holis Regency M15-17 Bandung 40222</p>
       </div>
       <div>
@@ -80,76 +80,83 @@
             style="display: none"
             name="botcheck"
           />
-          <div class="bg-white mb-5">
+          <div class="form-control bg-blue-50 dark:bg-zinc-800 mb-5">
             <div class="relative bg-inherit">
               <input
                 type="text"
                 id="nama"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 border-2 rounded placeholder:text-neutral-800/50 outline-none dark:placeholder:text-neutral-400 dark:bg-zinc-800 border-neutral-400 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Nama"
-              /><label
+                required
+              />
+              <label
                 for="nama"
-                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 peer-focus:text-sm transition-all"
+                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 dark:text-neutral-300 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 dark:peer-placeholder-shown:text-neutral-400 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 dark:peer-focus:text-sky-600 peer-focus:text-sm transition-all"
                 >Nama</label
               >
             </div>
           </div>
-          <div class="bg-white mb-5">
+          <div class="form-control bg-blue-50 dark:bg-zinc-800 mb-5">
             <div class="relative bg-inherit">
               <input
                 type="text"
-                id="email_address"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                id="email"
+                class="peer bg-transparent w-full px-4 py-3 border-2 rounded placeholder:text-neutral-800/50 outline-none dark:placeholder:text-neutral-400 dark:bg-zinc-800 border-neutral-400 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Email"
-              /><label
-                for="email_address"
-                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 peer-focus:text-sm transition-all"
+                required
+              />
+              <label
+                for="email"
+                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 dark:text-neutral-300 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 dark:peer-placeholder-shown:text-neutral-400 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 dark:peer-focus:text-sky-600 peer-focus:text-sm transition-all"
                 >Email</label
               >
             </div>
           </div>
-          <div class="bg-white mb-5">
+          <div class="form-control bg-blue-50 dark:bg-zinc-800 mb-5">
             <div class="relative bg-inherit">
               <input
                 type="text"
                 id="alamat"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 border-2 rounded placeholder:text-neutral-800/50 outline-none dark:placeholder:text-neutral-400 dark:bg-zinc-800 border-neutral-400 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Alamat"
-              /><label
+                required
+              />
+              <label
                 for="alamat"
-                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 peer-focus:text-sm transition-all"
+                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 dark:text-neutral-300 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 dark:peer-placeholder-shown:text-neutral-400 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 dark:peer-focus:text-sky-600 peer-focus:text-sm transition-all"
                 >Alamat</label
               >
             </div>
           </div>
-          <div class="bg-white mb-5">
+          <div class="form-control bg-blue-50 dark:bg-zinc-800 mb-5">
             <div class="relative bg-inherit">
               <input
                 type="text"
                 id="alasan"
-                class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                class="peer bg-transparent w-full px-4 py-3 border-2 rounded placeholder:text-neutral-800/50 outline-none dark:placeholder:text-neutral-400 dark:bg-zinc-800 border-neutral-400 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
                 placeholder="Bagaimana Anda menemukan kami?"
-              /><label
+                required
+              />
+              <label
                 for="alasan"
-                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 peer-focus:text-sm transition-all"
+                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 dark:text-neutral-300 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 dark:peer-placeholder-shown:text-neutral-400 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 dark:peer-focus:text-sky-600 peer-focus:text-sm transition-all"
                 >Bagaimana Anda menemukan kami?</label
               >
             </div>
           </div>
-          <div class="mb-3">
-            <div class="bg-white">
-              <div class="relative bg-inherit">
-                <textarea
-                  id="pesan"
-                  placeholder="Pesan"
-                  class="peer bg-transparent w-full px-4 py-3 rounded-md border-2 placeholder:text-neutral-800/50 dark:text-white outline-none dark:placeholder:text-neutral-200 dark:bg-neutral-900 focus:ring-4 border-neutral-300 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
-                ></textarea>
-                <label
-                  for="pesan"
-                  class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 peer-focus:text-sm transition-all"
-                  >Pesan</label
-                >
-              </div>
+          <div class="form-control bg-blue-50 dark:bg-zinc-800 mb-3">
+            <div class="relative bg-inherit">
+              <textarea
+                id="pesan"
+                class="peer bg-transparent w-full px-4 py-3 border-2 rounded placeholder:text-neutral-800/50 outline-none dark:placeholder:text-neutral-400 dark:bg-zinc-800 border-neutral-400 focus:border-neutral-600 ring-neutral-100 dark:border-neutral-600 dark:focus:border-white dark:ring-0"
+                placeholder="Pesan"
+                required
+              ></textarea>
+              <label
+                for="pesan"
+                class="absolute cursor-text left-2 -top-3 text-sm text-neutral-800/50 dark:text-neutral-300 bg-inherit mx-1 px-1 peer-placeholder-shown:text-base peer-placeholder-shown:text-neutral-800/50 dark:peer-placeholder-shown:text-neutral-400 peer-placeholder-shown:top-3 peer-focus:-top-3 peer-focus:text-sky-600 dark:peer-focus:text-sky-600 peer-focus:text-sm transition-all"
+                >Pesan</label
+              >
             </div>
           </div>
           <div class="flex items-center mb-4">

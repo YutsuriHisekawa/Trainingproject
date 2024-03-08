@@ -1,6 +1,6 @@
 <template>
   <main>
-    <div class="max-w-7xl mx-auto my-8 px-2 lg:w-5/6">
+    <div class="max-w-7xl mx-auto mb-8 px-2 lg:w-5/6">
       <div class="flex justify-start p-2 text-2xl md:text-2xl font-bold mb-4">
         Cotton Combed 30s
       </div>

@@ -2,7 +2,7 @@
   <main>
     <div class="flex justify-center items-center">
       <div
-        class="2xl:mx-auto 2xl:container lg:px-20 lg:py-16 md:py-12 md:px-6 py-9 px-4 w-96 sm:w-auto"
+        class="2xl:mx-auto 2xl:container lg:px-20 lg:pb-16 md:pb-12 md:px-6 pb-9 px-4 w-96 sm:w-auto"
       >
         <h1
           class="text-4xl font-semibold leading-9 text-start text-gray-800 dark:text-gray-50 mb-10"
@@ -135,11 +135,6 @@
           >
             <div class="relative">
               <div>
-                <p
-                  class="md:p-10 p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0"
-                >
-                  12 April 2021
-                </p>
                 <div class="absolute bottom-0 top-60 left-0 md:p-10 p-6">
                   <h2 class="text-xl font-semibold 5 text-white">
                     10 Jenis Bahan Crinkle serta Kelebihan dan Cara Perawatannya

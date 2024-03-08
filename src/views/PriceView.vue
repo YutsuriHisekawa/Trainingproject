@@ -2,7 +2,7 @@
   <main>
     <div>
       <div class="min-w-max mb-16">
-        <h1 class="flex w-full justify-center font-bold mb-6 text-2xl">
+        <h1 class="flex w-full justify-center font-bold mb-8 text-3xl">
           Price List Outlet Focus Textile
         </h1>
         <div class="w-5/6 flex ml-24">
@@ -33,32 +33,32 @@
               <tr>
                 <th rowspan="3" scope="rowgroup">Cutton Combed 100%</th>
                 <th scope="row">30s</th>
-                <td>Rp 95.000</td>
-                <td>Rp 104.000</td>
-                <td>Rp 100.000</td>
-                <td>Rp 103.000</td>
-                <td>Rp 106.000</td>
-                <td>Rp 110.000</td>
+                <td>Rp95.000</td>
+                <td>Rp104.000</td>
+                <td>Rp100.000</td>
+                <td>Rp103.000</td>
+                <td>Rp106.000</td>
+                <td>Rp110.000</td>
                 <td>+Rp14.000</td>
               </tr>
               <tr>
                 <th scope="row">24s</th>
-                <td>Rp 93.000</td>
-                <td>Rp 102.000</td>
-                <td>Rp 98.000</td>
-                <td>Rp 101.000</td>
-                <td>Rp 104.000</td>
-                <td>Rp 108.000</td>
+                <td>Rp93.000</td>
+                <td>Rp102.000</td>
+                <td>Rp98.000</td>
+                <td>Rp101.000</td>
+                <td>Rp104.000</td>
+                <td>Rp108.000</td>
                 <td>+Rp14.000</td>
               </tr>
               <tr>
                 <th scope="row">20s</th>
-                <td>Rp 92.000</td>
-                <td>Rp 101.000</td>
-                <td>Rp 97.000</td>
-                <td>Rp 100.000</td>
-                <td>Rp 103.000</td>
-                <td>Rp 107.000</td>
+                <td>Rp92.000</td>
+                <td>Rp101.000</td>
+                <td>Rp97.000</td>
+                <td>Rp100.000</td>
+                <td>Rp103.000</td>
+                <td>Rp107.000</td>
                 <td>+Rp14.000</td>
               </tr>
               <tr>
@@ -66,22 +66,22 @@
                   Cutton Carded
                 </th>
                 <th scope="rowgroup">30s</th>
-                <td>Rp 85.000</td>
-                <td>Rp 96.000</td>
-                <td>Rp 92.000</td>
-                <td>Rp 95.000</td>
-                <td>Rp 98.000</td>
-                <td>Rp 102.000</td>
+                <td>Rp85.000</td>
+                <td>Rp96.000</td>
+                <td>Rp92.000</td>
+                <td>Rp95.000</td>
+                <td>Rp98.000</td>
+                <td>Rp102.000</td>
                 <td>+Rp13.000</td>
               </tr>
               <tr>
                 <th scope="rowgroup">24s</th>
-                <td>Rp 82.000</td>
-                <td>Rp 94.000</td>
-                <td>Rp 90.000</td>
-                <td>Rp 93.000</td>
-                <td>Rp 96.000</td>
-                <td>Rp 100.000</td>
+                <td>Rp82.000</td>
+                <td>Rp94.000</td>
+                <td>Rp90.000</td>
+                <td>Rp93.000</td>
+                <td>Rp96.000</td>
+                <td>Rp100.000</td>
                 <td>+Rp13.000</td>
               </tr>
             </tbody>
@@ -115,23 +115,23 @@
               <tr>
                 <th scope="rowgroup">Cutton Bamboo</th>
                 <th scope="row">30s</th>
-                <td>Rp 95.000</td>
-                <td>Rp 103.000</td>
-                <td>Rp 106.000</td>
-                <td>Rp 109.000</td>
-                <td>Rp 111.000</td>
-                <td>Rp 121.000</td>
+                <td>Rp95.000</td>
+                <td>Rp103.000</td>
+                <td>Rp106.000</td>
+                <td>Rp109.000</td>
+                <td>Rp111.000</td>
+                <td>Rp121.000</td>
                 <td>+Rp15.000</td>
               </tr>
               <tr>
                 <th class="bg-white" scope="rowgroup">Cutton Slub</th>
                 <th scope="rowgroup">30s</th>
-                <td>Rp 105.000</td>
-                <td>Rp 110.000</td>
-                <td>Rp 113.000</td>
-                <td>Rp 116.000</td>
-                <td>Rp 120.000</td>
-                <td>Rp 133.000</td>
+                <td>Rp105.000</td>
+                <td>Rp110.000</td>
+                <td>Rp113.000</td>
+                <td>Rp116.000</td>
+                <td>Rp120.000</td>
+                <td>Rp133.000</td>
                 <td>+Rp15.000</td>
               </tr>
             </tbody>
@@ -165,23 +165,23 @@
               <tr>
                 <th scope="rowgroup">Pad Dyed Combed</th>
                 <th scope="row">30s</th>
-                <td>Rp 105.000</td>
-                <td>Rp 110.000</td>
-                <td>Rp 113.000</td>
-                <td>Rp 116.000</td>
-                <td>Rp 120.000</td>
-                <td>Rp 110.000</td>
+                <td>Rp105.000</td>
+                <td>Rp110.000</td>
+                <td>Rp113.000</td>
+                <td>Rp116.000</td>
+                <td>Rp120.000</td>
+                <td>Rp110.000</td>
                 <td>+Rp14.000</td>
               </tr>
               <tr>
                 <th class="bg-white" scope="rowgroup">Enzyme Combeds</th>
                 <th scope="rowgroup">30s</th>
-                <td>Rp 85.000</td>
-                <td>Rp 96.000</td>
-                <td>Rp 92.000</td>
-                <td>Rp 95.000</td>
-                <td>Rp 98.000</td>
-                <td>Rp 102.000</td>
+                <td>Rp85.000</td>
+                <td>Rp96.000</td>
+                <td>Rp92.000</td>
+                <td>Rp95.000</td>
+                <td>Rp98.000</td>
+                <td>Rp102.000</td>
                 <td>+Rp13.000</td>
               </tr>
             </tbody>
@@ -215,22 +215,22 @@
               <tr>
                 <th rowspan="2" scope="rowgroup">Cutton Combed</th>
                 <th scope="row">30s</th>
-                <td>Rp 113.000</td>
-                <td>Rp 123.000</td>
-                <td>Rp 113.000</td>
-                <td>Rp 118.000</td>
-                <td>Rp 123.000</td>
-                <td>Rp 128.000</td>
+                <td>Rp113.000</td>
+                <td>Rp123.000</td>
+                <td>Rp113.000</td>
+                <td>Rp118.000</td>
+                <td>Rp123.000</td>
+                <td>Rp128.000</td>
                 <td>+Rp15.000</td>
               </tr>
               <tr>
                 <th scope="row">24s</th>
-                <td>Rp 111.000</td>
-                <td>Rp 121.000</td>
-                <td>Rp 111.000</td>
-                <td>Rp 116.000</td>
-                <td>Rp 121.000</td>
-                <td>Rp 126.000</td>
+                <td>Rp111.000</td>
+                <td>Rp121.000</td>
+                <td>Rp111.000</td>
+                <td>Rp116.000</td>
+                <td>Rp121.000</td>
+                <td>Rp126.000</td>
                 <td>+Rp15.000</td>
               </tr>
               <tr>
@@ -238,22 +238,22 @@
                   Jovian planets
                 </th>
                 <th scope="rowgroup">30s</th>
-                <td>Rp 101.000</td>
-                <td>Rp 111.000</td>
-                <td>Rp 101.000</td>
-                <td>Rp 106.000</td>
-                <td>Rp 111.000</td>
-                <td>Rp 116.000</td>
+                <td>Rp101.000</td>
+                <td>Rp111.000</td>
+                <td>Rp101.000</td>
+                <td>Rp106.000</td>
+                <td>Rp111.000</td>
+                <td>Rp116.000</td>
                 <td>+Rp14.000</td>
               </tr>
               <tr>
                 <th scope="rowgroup">24s</th>
-                <td>Rp 99.000</td>
-                <td>Rp 109.000</td>
-                <td>Rp 99.000</td>
-                <td>Rp 104.000</td>
-                <td>Rp 109.000</td>
-                <td>Rp 114.000</td>
+                <td>Rp99.000</td>
+                <td>Rp109.000</td>
+                <td>Rp99.000</td>
+                <td>Rp104.000</td>
+                <td>Rp109.000</td>
+                <td>Rp114.000</td>
                 <td>+Rp14.000</td>
               </tr>
             </tbody>
@@ -266,7 +266,7 @@
         </div>
         <div class="w-5/6 flex justify-center mx-auto">
           <table
-            class="border-slate-600 border table table-zebra text-center mt-3"
+            class="border border-slate-600 table table-zebra text-center mt-3"
           >
             <thead class="bg-primary text-white text-1xl">
               <tr>
@@ -284,14 +284,14 @@
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <tr class="border border-slate-600">
                 <th scope="rowgroup">Cotton Galaxy</th>
                 <th scope="row">30s</th>
-                <td>Rp 102.000</td>
-                <td>Rp 105.000</td>
-                <td>Rp 108.000</td>
-                <td>Rp 111.000</td>
-                <td>Rp 115.000</td>
+                <td>Rp102.000</td>
+                <td>Rp105.000</td>
+                <td>Rp108.000</td>
+                <td>Rp111.000</td>
+                <td>Rp115.000</td>
                 <td></td>
                 <td>+Rp14.000</td>
               </tr>
