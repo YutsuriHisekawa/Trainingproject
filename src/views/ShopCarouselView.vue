@@ -3,7 +3,7 @@
     <div class="w-5/6 flex-col items-center justify-center mx-auto mt-6">
       <div class="carousel w-full items-center">
         <div id="slide1" class="carousel-item relative w-full">
-          <img src="../assets/belanjafigure.svg" class="w-full" />
+          <img src="../../img/shop-1.png" class="w-full" />
           <div
             class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
           >
@@ -64,7 +64,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/navy.svg"
+                    src="../../img/shop-2.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -86,7 +86,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/royalblue.svg"
+                    src="../../img/shop-3.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -108,7 +108,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/coklatabu.svg"
+                    src="../../img/shop-4.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -130,7 +130,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/hitamreaktif.svg"
+                    src="../../img/shop-5.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -152,7 +152,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/birumuda.svg"
+                    src="../../img/shop-6.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -186,7 +186,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/navy1.svg"
+                    src="../../img/shop-7.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -208,7 +208,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/birumuda1.svg"
+                    src="../../img/shop-8.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -230,7 +230,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/hitamjetblack1.svg"
+                    src="../../img/shop-9.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -252,7 +252,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/ungu1.svg"
+                    src="../../img/shop-10.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -274,7 +274,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/putih1.svg"
+                    src="../../img/shop-11.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -308,7 +308,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/m70b.svg"
+                    src="../../img/shop-12.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -330,7 +330,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/m71b.svg"
+                    src="../../img/shop-13.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -352,7 +352,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/m061.svg"
+                    src="../../img/shop-14.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -372,7 +372,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/m081.svg"
+                    src="../../img/shop-15.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -392,7 +392,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/m041.svg"
+                    src="../../img/shop-16.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -424,7 +424,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/ttmerah.svg"
+                    src="../../img/shop-17.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -446,7 +446,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/ttabu.svg"
+                    src="../../img/shop-18.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -468,7 +468,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/tthitam.svg"
+                    src="../../img/shop-19.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -490,7 +490,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/ttnavy.svg"
+                    src="../../img/shop-20.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">
@@ -512,7 +512,7 @@
                 <div class="flex-shrink-0">
                   <img
                     class="h-64 w-full object-cover"
-                    src="../assets/tthijau.svg"
+                    src="../../img/shop-21.png"
                   />
                 </div>
                 <div class="flex flex-1 flex-col justify-between bg-white p-6">

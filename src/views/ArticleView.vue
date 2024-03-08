@@ -17,7 +17,7 @@
               </h1>
             </div>
             <div>
-              <img src="../assets/blog.svg" />
+              <img src="../../img/article-1.png" />
             </div>
           </div>
           <div role="main" class="flex flex-col w-full">
@@ -49,7 +49,7 @@
                   </div>
                 </div>
                 <img
-                  src="../assets/blog1.svg"
+                  src="../../img/article-2.png"
                   class="w-full"
                   alt="wall design"
                 />
@@ -70,7 +70,7 @@
                   </div>
                 </div>
                 <img
-                  src="../assets/blog2.svg"
+                  src="../../img/article-3.png"
                   class="w-full"
                   alt="wall design"
                 />
@@ -95,7 +95,7 @@
                   </div>
                 </div>
                 <img
-                  src="../assets/blog3.svg"
+                  src="../../img/article-4.png"
                   class="w-full"
                   alt="wall design"
                 />
@@ -116,7 +116,7 @@
                   </div>
                 </div>
                 <img
-                  src="../assets/blog4.svg"
+                  src="../../img/article-5.png"
                   class="w-full"
                   alt="wall design"
                 />
@@ -147,7 +147,7 @@
                 </div>
               </div>
               <img
-                src="../assets/blog5.svg"
+                src="../../img/article-6.png"
                 alt="sitting place"
                 class="w-full sm:block hidden"
               />

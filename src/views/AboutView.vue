@@ -2,7 +2,7 @@
   <main>
     <div class="mb-16">
       <div class="absolute top-0 w-full" style="z-index: -1">
-        <img src="../assets/about.svg" />
+        <img src="../../img/about-1.png" />
       </div>
       <div class="mx-auto max-w-7xl pt-0 px-4 sm:px-6 lg:px-8 lg:pt-64 lg:mt-3">
         <div class="lg:text-left">
@@ -36,7 +36,7 @@
               <div class="image object-center text-center sm:items-center">
                 <img
                   class="mx-auto sm:items-center"
-                  src="../assets/logotoko.svg"
+                  src="../../img/logo-2.png"
                 />
               </div>
             </div>

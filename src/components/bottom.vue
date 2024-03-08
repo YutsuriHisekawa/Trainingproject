@@ -4,7 +4,7 @@
       class="footer bg-primary-content dark:bg-primary-content p-8 text-base-content flex flex-col md:flex-row md:justify-between"
     >
       <aside class="flex items-center mb-4 md:mb-0">
-        <img src="../../img/logo.png" class="max-w-full h-auto" />
+        <img src="../../img/logo-1.png" class="max-w-full h-auto" />
       </aside>
       <nav class="">
         <h6 class="text-sm font-bold text-blue-700">LOKASI</h6>
